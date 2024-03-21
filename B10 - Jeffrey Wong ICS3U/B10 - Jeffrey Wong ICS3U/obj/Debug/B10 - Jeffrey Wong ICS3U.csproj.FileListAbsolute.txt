@@ -1,0 +1,6 @@
+u:\documents\visual studio 2015\Projects\B10 - Jeffrey Wong ICS3U\B10 - Jeffrey Wong ICS3U\bin\Debug\B10 - Jeffrey Wong ICS3U.exe.config
+u:\documents\visual studio 2015\Projects\B10 - Jeffrey Wong ICS3U\B10 - Jeffrey Wong ICS3U\obj\Debug\B10 - Jeffrey Wong ICS3U.csprojResolveAssemblyReference.cache
+u:\documents\visual studio 2015\Projects\B10 - Jeffrey Wong ICS3U\B10 - Jeffrey Wong ICS3U\bin\Debug\B10 - Jeffrey Wong ICS3U.exe
+u:\documents\visual studio 2015\Projects\B10 - Jeffrey Wong ICS3U\B10 - Jeffrey Wong ICS3U\bin\Debug\B10 - Jeffrey Wong ICS3U.pdb
+u:\documents\visual studio 2015\Projects\B10 - Jeffrey Wong ICS3U\B10 - Jeffrey Wong ICS3U\obj\Debug\B10 - Jeffrey Wong ICS3U.exe
+u:\documents\visual studio 2015\Projects\B10 - Jeffrey Wong ICS3U\B10 - Jeffrey Wong ICS3U\obj\Debug\B10 - Jeffrey Wong ICS3U.pdb
