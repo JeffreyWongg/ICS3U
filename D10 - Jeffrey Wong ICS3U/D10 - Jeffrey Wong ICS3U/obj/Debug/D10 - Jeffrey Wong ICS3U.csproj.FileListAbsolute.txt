@@ -1,0 +1,9 @@
+u:\documents\visual studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\bin\Debug\D10 - Jeffrey Wong ICS3U.exe.config
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\bin\Debug\D10 - Jeffrey Wong ICS3U.exe
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\bin\Debug\D10 - Jeffrey Wong ICS3U.pdb
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\obj\Debug\D10 - Jeffrey Wong ICS3U.csprojResolveAssemblyReference.cache
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\obj\Debug\D10___Jeffrey_Wong_ICS3U.Form1.resources
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\obj\Debug\D10___Jeffrey_Wong_ICS3U.Properties.Resources.resources
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\obj\Debug\D10 - Jeffrey Wong ICS3U.csproj.GenerateResource.Cache
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\obj\Debug\D10 - Jeffrey Wong ICS3U.exe
+U:\Documents\Visual Studio 2015\Projects\D10 - Jeffrey Wong ICS3U\D10 - Jeffrey Wong ICS3U\obj\Debug\D10 - Jeffrey Wong ICS3U.pdb
