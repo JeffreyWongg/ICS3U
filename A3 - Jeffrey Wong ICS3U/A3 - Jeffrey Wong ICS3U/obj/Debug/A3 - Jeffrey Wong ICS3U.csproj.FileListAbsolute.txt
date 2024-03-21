@@ -1,0 +1,5 @@
+u:\documents\visual studio 2015\Projects\A3 - Jeffrey Wong ICS3U\A3 - Jeffrey Wong ICS3U\bin\Debug\A3 - Jeffrey Wong ICS3U.exe.config
+u:\documents\visual studio 2015\Projects\A3 - Jeffrey Wong ICS3U\A3 - Jeffrey Wong ICS3U\bin\Debug\A3 - Jeffrey Wong ICS3U.exe
+u:\documents\visual studio 2015\Projects\A3 - Jeffrey Wong ICS3U\A3 - Jeffrey Wong ICS3U\bin\Debug\A3 - Jeffrey Wong ICS3U.pdb
+u:\documents\visual studio 2015\Projects\A3 - Jeffrey Wong ICS3U\A3 - Jeffrey Wong ICS3U\obj\Debug\A3 - Jeffrey Wong ICS3U.exe
+u:\documents\visual studio 2015\Projects\A3 - Jeffrey Wong ICS3U\A3 - Jeffrey Wong ICS3U\obj\Debug\A3 - Jeffrey Wong ICS3U.pdb
